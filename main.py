@@ -1,7 +1,7 @@
 """
 Program: KeyLogger (with Microphone, WebCamera, Screenshots, Audio Logging Feature)
-Author: Aman Kumar
-Date: 05/08/2022
+Author: Shrabani Nayak
+Date: 11/12/2023
 """
 
 # Libraries
